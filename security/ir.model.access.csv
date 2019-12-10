@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_ele-custom-tree_ele-custom-tree,ele-custom-tree.ele-custom-tree,model_ele-custom-tree_ele-custom-tree,,1,0,0,0
